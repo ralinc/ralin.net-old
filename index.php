@@ -5,6 +5,7 @@
   <title>Ralin Chimev</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="Description" content="Ralin Chimev website" />
+  <link rel="icon" type="image/png" href="images/favicon.png" />
   <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
   <script src="js/skel.min.js"></script>
   <script src="js/init.js"></script>
@@ -36,18 +37,28 @@
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/ralinchimev" class="icon fa-linkedin" target="_blank">
-                <span class="label">LinkedIn</span>
-              </a>
-            </li>
-            <li>
               <a href="https://plus.google.com/+RalinChimev" class="icon fa-google-plus" target="_blank">
                 <span class="label">Google+</span>
               </a>
             </li>
             <li>
+              <a href="https://www.linkedin.com/in/ralinchimev" class="icon fa-linkedin" target="_blank">
+                <span class="label">LinkedIn</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/ralinchimev" class="icon fa-github" target="_blank">
+                <span class="label">Github</span>
+              </a>
+            </li>
+            <li>
               <a href="http://blog.ralin.net/" class="icon fa-newspaper-o" target="_blank">
                 <span class="label">Blog</span>
+              </a>
+            </li>
+            <li>
+              <a href="http://eu.battle.net/wow/en/character/stormscale/Xullz/achievement#95:165" class="icon fa-gamepad" target="_blank">
+                <span class="label">WoW</span>
               </a>
             </li>
             <li>
@@ -61,7 +72,7 @@
 
       <!-- Footer -->
       <footer id="footer">
-        <span>No copyright. You can take whatever you like.</span>
+        <span>Launchpad</span>
       </footer>
 
     </div>
