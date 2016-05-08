@@ -4,7 +4,7 @@
 <head>
   <title>Ralin Chimev</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="Description" content="Ralin Chimev website" />
+  <meta name="Description" content="Ralin Chimev personal website" />
   <link rel="icon" type="image/png" href="images/favicon.png" />
   <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
   <script src="js/skel.min.js"></script>
@@ -25,20 +25,14 @@
     <div id="overlay"></div>
     <div id="main">
 
-      <!-- Header -->
       <header id="header">
         <h1>Ralin Chimev</h1>
-        <p>Software Engineer &nbsp;&bull;&nbsp; Casual Gamer &nbsp;&bull;&nbsp; Soccer Poser</p>
+        <p>Software Developer &nbsp;&bull;&nbsp; Casual Gamer &nbsp;&bull;&nbsp; Soccer Poser</p>
         <nav>
           <ul>
             <li>
               <a href="https://www.facebook.com/ralin.chimev" class="icon fa-facebook" target="_blank">
                 <span class="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://plus.google.com/+RalinChimev" class="icon fa-google-plus" target="_blank">
-                <span class="label">Google+</span>
               </a>
             </li>
             <li>
@@ -57,11 +51,6 @@
               </a>
             </li>
             <li>
-              <a href="http://eu.battle.net/wow/en/character/stormscale/Xullz/achievement#95:165" class="icon fa-gamepad" target="_blank">
-                <span class="label">WoW</span>
-              </a>
-            </li>
-            <li>
               <a href="mailto:ralin@ralin.net" class="icon fa-envelope-o">
                 <span class="label">Email</span>
               </a>
@@ -70,9 +59,8 @@
         </nav>
       </header>
 
-      <!-- Footer -->
       <footer id="footer">
-        <span>Launchpad</span>
+        <span>ralin.net &copy; <?php echo date("Y"); ?></span>
       </footer>
 
     </div>

@@ -1,2 +1,2 @@
 # ralin.net
-Personal web site
+Personal website
